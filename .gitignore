@@ -1,0 +1,6 @@
+*.csv
+*.xlsx
+*.log
+.env
+node_modules/
+*.bak
