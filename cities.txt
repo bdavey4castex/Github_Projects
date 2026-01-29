@@ -1,0 +1,21 @@
+# Format: CityName|StationID|Latitude|Longitude|Timezone
+Denver|KDEN|39.84658|-104.65622|America/Denver
+New York|KJFK|40.63975|-73.77893|America/New_York
+Los Angeles|KLAX|33.94254|-118.40807|America/Los_Angeles
+Chicago|KMDW|41.78661|-87.75172|America/Chicago
+Houston|KIAH|29.98047|-95.33972|America/Chicago
+Phoenix|KPHX|33.43417|-112.00806|America/Phoenix
+Dallas|KDFW|32.89595|-97.0372|America/Chicago
+Miami|KMIA|25.79325|-80.29056|America/New_York
+Seattle|KSEA|47.44898|-122.30931|America/Los_Angeles
+San Francisco|KSFO|37.61900|-122.37484|America/Los_Angeles
+Austin|KAUS|30.19453|-97.66987|America/Chicago
+Boston|KBOS|42.36056|-71.01056|America/New_York
+Jacksonville|KJAX|30.49534|-81.69370|America/New_York
+Philadelphia|KPHL|39.87327|-75.22678|America/New_York
+San Antonio|KSAT|29.53278|-98.46361|America/Chicago
+Charlotte|KCLT|35.20833|-80.96139|America/New_York
+Washington DC|KDCA|38.84833|-77.03417|America/New_York
+Las Vegas|KLAS|36.07188|-115.16340|America/Los_Angeles
+Oklahoma City|KOKC|35.38861|-97.60028|America/Chicago
+Nashville|KBNA|36.11889|-86.68917|America/Chicago
